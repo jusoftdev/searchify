@@ -31,7 +31,7 @@ export default function Home() {
             {/* Left */}
             <div className="flex space-x-4 items-center">
                 <a href="https://jusoft.dev"><p className="link">JuSoft</p></a>
-                <a hred="https://github.com/jusoftdev/searchify"<p className="link">Github</p>
+                <a href="https://github.com/jusoftdev/searchify"<p className="link">Github</p>
             </div>
             {/* Right */}
             <div className="flex space-x-4 items-center">
