@@ -11,7 +11,7 @@
   <p align="center">
     Hosting your own Searchengine was never easier
     <br />
-    <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/jusoftdev/searchify"><strong>Explore the docs »</strong></a>
     <br />
     <br />
     <a href="https://searchify.vercel.app">View Demo</a>
