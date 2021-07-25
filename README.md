@@ -80,7 +80,7 @@ To get a local copy up and running follow these simple steps.
 
 This is an example of how to list things you need to use the software and how to install them.
 * [npm](https://npmjs.com)
-* [NodeJS] (https://nodejs.org)  
+* [NodeJS](https://nodejs.org)  
 * yarn
   ```sh
   npm install --global yarn
@@ -127,7 +127,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 <!-- ROADMAP -->
 ## Roadmap
 
-See the [open issues](https://github.com/github_username/repo_name/issues) for a list of proposed features (and known issues).
+See the [open issues](https://github.com/jusoftdev/searchify/issues) for a list of proposed features (and known issues).
 
 
 
@@ -154,18 +154,16 @@ Distributed under the MIT License. See `LICENSE` for more information.
 <!-- CONTACT -->
 ## Contact
 
-Your Name - [@twitter_handle](https://twitter.com/twitter_handle) - email
+JuSoft - [@jusoftdev](https://twitter.com/jusoftdev) - [Discord Server](http://jsft.be/discord) - support@jusoft.dev
 
-Project Link: [https://github.com/github_username/repo_name](https://github.com/github_username/repo_name)
+Project Link: [https://github.com/jusoftdev/searchify](https://github.com/jusoftdev/searchify)
 
 
 
 <!-- ACKNOWLEDGEMENTS -->
-## Acknowledgements
+## Contributors
 
-* []()
-* []()
-* []()
+* [juhom205](https://github.com/juhom205)
 
 
 
