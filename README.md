@@ -80,19 +80,25 @@ To get a local copy up and running follow these simple steps.
 
 This is an example of how to list things you need to use the software and how to install them.
 * npm
+* NodeJS (LTS)  
+* yarn
   ```sh
-  npm install npm@latest -g
+  npm install --global yarn
+  ```
+* NextJS
+  ```sh
+  yarn add next react react-dom
   ```
 
 ### Installation
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/github_username/repo_name.git
+   git clone https://github.com/jusoftdev/searchify.git
    ```
-2. Install NPM packages
+2. Install yarn packages
    ```sh
-   npm install
+   yarn
    ```
 
 
