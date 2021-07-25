@@ -1,7 +1,3 @@
-<!--<img src="https://i.imgur.com/ATsF8Qx.gif">
-
-Detailed Documentation coming soon-->
-
 
 <!-- PROJECT LOGO -->
 <br />
@@ -13,12 +9,12 @@ Detailed Documentation coming soon-->
   <h3 align="center">Searchify</h3>
 
   <p align="center">
-    Host your own Searchengine
+    Hosting your own Searchengine was never easier
     <br />
     <a href="https://github.com/github_username/repo_name"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://searchify.jsft.be">View Demo</a>
+    <a href="https://searchify.vercel.app">View Demo</a>
     ·
     <a href="https://github.com/jusoftdev/searchify/issues">Report Bug</a>
     ·
@@ -47,10 +43,11 @@ Detailed Documentation coming soon-->
     </li>
     <li><a href="#usage">Usage</a></li>
     <li><a href="#roadmap">Roadmap</a></li>
+    <li><a href="#todo">To do</a></li>
     <li><a href="#contributing">Contributing</a></li>
     <li><a href="#license">License</a></li>
     <li><a href="#contact">Contact</a></li>
-    <li><a href="#acknowledgements">Acknowledgements</a></li>
+    <li><a href="#contributors">Contributors</a></li>
   </ol>
 </details>
 
@@ -58,6 +55,9 @@ Detailed Documentation coming soon-->
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
+
+_Please notice there is a 100 query limit per day for the google api, so don't be confused if there are no results on the public deploy_
+
 
 Host your own Google
 <img src="https://i.imgur.com/vPdHLGG.png"/>
@@ -125,8 +125,10 @@ Showing results in an useful way
 <img src="https://i.imgur.com/kIaOSie.png" />
 Pagination
 <img src="https://i.imgur.com/ghpSFcf.png" />
-
-_For more examples, please refer to the [Documentation](https://example.com)_
+Fully responsive Design <br>
+<img src="https://i.imgur.com/ym4XODw.png" />
+<img src="https://cdn.discordapp.com/attachments/828176464041476111/868920497113530479/unknown.png" />
+<br>
 
 
 
@@ -136,7 +138,7 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 See the [open issues](https://github.com/jusoftdev/searchify/issues) for a list of proposed features (and known issues).
 
 <!-- todo -->
-## To do
+## Todo
 
 * Dark Mode
 * Image Search
