@@ -118,7 +118,13 @@ yarn build
 <!-- USAGE EXAMPLES -->
 ## Usage
 
-Use this space to show useful examples of how a project can be used. Additional screenshots, code examples and demos work well in this space. You may also link to more resources.
+Beautiful responsive design
+<img src="https://i.imgur.com/v1gSm5R.png" />
+<img src="https://i.imgur.com/Kvu3Eam.png" />
+Showing results in an useful way
+<img src="https://i.imgur.com/kIaOSie.png" />
+Pagination
+<img src="https://i.imgur.com/ghpSFcf.png" />
 
 _For more examples, please refer to the [Documentation](https://example.com)_
 
@@ -128,6 +134,15 @@ _For more examples, please refer to the [Documentation](https://example.com)_
 ## Roadmap
 
 See the [open issues](https://github.com/jusoftdev/searchify/issues) for a list of proposed features (and known issues).
+
+<!-- todo -->
+## To do
+
+* Dark Mode
+* Image Search
+* Video Search
+* News
+* Settings
 
 
 
