@@ -79,8 +79,8 @@ To get a local copy up and running follow these simple steps.
 ### Prerequisites
 
 This is an example of how to list things you need to use the software and how to install them.
-* npm
-* NodeJS (LTS)  
+* [npm](https://npmjs.com)
+* [NodeJS] (https://nodejs.org)  
 * yarn
   ```sh
   npm install --global yarn
@@ -100,7 +100,19 @@ This is an example of how to list things you need to use the software and how to
    ```sh
    yarn
    ```
-
+3. [Get your custom Google API key (requires Google Account)](https://developers.google.com/custom-search/v1/using_rest)
+4. Insert your API key in `keys.js`
+```js
+export const API_KEY = 'Insert here'
+```
+5. Run
+```sh
+yarn dev
+```
+6. Build (optional)
+```sh
+yarn build
+```
 
 
 <!-- USAGE EXAMPLES -->
