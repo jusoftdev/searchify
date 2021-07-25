@@ -1,4 +1,3 @@
-<a href="https://www.buymeacoffee.com/jusoft" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 <!-- PROJECT LOGO -->
 <br />
 <p align="center">
@@ -18,7 +17,9 @@
     ·
     <a href="https://github.com/jusoftdev/searchify/issues">Report Bug</a>
     ·
-    <a href="https://github.com/jusoftdev/searchify/issues">Request Feature</a>
+    <a href="https://github.com/jusoftdev/searchify/issues">Request Feature</a><br>&nbsp;
+<a href="https://www.buymeacoffee.com/jusoft" target="_blank"><img src="https://bmc-cdn.nyc3.digitaloceanspaces.com/BMC-button-images/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
+ 
   </p>
 </p>
 
