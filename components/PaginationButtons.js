@@ -7,7 +7,7 @@ function PaginationButtons() {
 
     const startIndex = Number(router.query.start) || 0;
     return (
-        <div className="flex justify-between max-w-lg text-blue-700 mb-10">
+        <div className="flex justify-between max-w-lg text-blue-700 mb-30 mt-5">
             {startIndex >= 10 && (
                 <Link href={`/search?term=${router.query.term}&start=${startIndex - 10}`}>
                     <div className="flex flex-grow flex-col items-center cursor-pointer hover:underline">
@@ -18,13 +18,12 @@ function PaginationButtons() {
             )}
 
             <Link href={`/search?term=${router.query.term}&start=${startIndex + 10}`}>
-                <div className="flex flex-grow flex-col items-center cursor-pointer hover:underline">
+                <div className="flex flex-grow flex-col items-center cursor-pointer hover:underline dark:bg-gray-900">
                     <ChevronRightIcon className="h-5"/>
                     <p>Next</p>
                 </div>
             </Link>
-        </div>
-    )
+        </div>)
 }
 
 export default PaginationButtons
