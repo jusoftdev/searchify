@@ -131,7 +131,7 @@ Fully responsive Design <br>
 <img src="https://cdn.discordapp.com/attachments/828176464041476111/868920497113530479/unknown.png" />
 <br>
 Auto Darkmode<br>
-![Darkmode](https://jusoft.dev/uploads/searchifydemo-2.gif)
+<img src="https://i.imgur.com/C0k2DlZ.png" />
 
 
 
