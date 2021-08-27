@@ -130,6 +130,8 @@ Fully responsive Design <br>
 <img src="https://i.imgur.com/ym4XODw.png" />
 <img src="https://cdn.discordapp.com/attachments/828176464041476111/868920497113530479/unknown.png" />
 <br>
+Auto Darkmode<br>
+<img src="https://jusoft.dev/uploads/searchify.gif" />
 
 
 
@@ -141,7 +143,6 @@ See the [open issues](https://github.com/jusoftdev/searchify/issues) for a list 
 <!-- todo -->
 ## Todo
 
-* Dark Mode
 * Image Search
 * Video Search
 * News
