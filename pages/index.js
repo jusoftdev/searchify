@@ -37,7 +37,6 @@ export default function Home() {
             </div>
             {/* Right */}
             <div className="flex space-x-4 items-center">
-                <p className="link">Report</p>
                 <a href="https://shortl.it"><p className="link">shortl.it</p></a>
 
             </div>
