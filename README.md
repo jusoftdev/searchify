@@ -141,12 +141,15 @@ Auto Darkmode<br>
 See the [open issues](https://github.com/jusoftdev/searchify/issues) for a list of proposed features (and known issues).
 
 <!-- todo -->
-## Todo
+## Todo (Sorted by importantness)
 
+* Teleport Me Button
+* Functionality
 * Image Search
 * Video Search
 * News
 * Settings
+
 
 
 
