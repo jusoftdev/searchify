@@ -45,7 +45,6 @@ export default function Home() {
             {/* Right */}
             <div className="flex space-x-4 items-center">
                 <a href="https://shortl.it"><p className="link">shortl.it</p></a>
-
             </div>
         </header>
         {/* Body */}
