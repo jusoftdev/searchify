@@ -59,7 +59,7 @@
 
 _Please notice there is a 100 query limit per day for the google api, so don't be confused if there are no results on the public deploy_
 
-Please report inappropriate content that you might be redirected to via a [Github Issue](https://github.com/jusoftdev/searchify/issues/new) with the label `url report` on the repository or create a [pull request](https://github.com/jusoftdev/searchify/pulls) with the label `url report already having the url removed in the code.
+Please report inappropriate content that you might be redirected to via a [Github Issue](https://github.com/jusoftdev/searchify/issues/new) with the label `url report` on the repository or create a [pull request](https://github.com/jusoftdev/searchify/pulls) with the label `url report` already having the url removed in the code.
 
 Host your own Google
 <img src="https://i.imgur.com/vPdHLGG.png"/>
