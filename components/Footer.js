@@ -13,8 +13,6 @@ function Footer(){
                 </div>
                 <div className="flex justify-center space-x-8 whitespace-nowrap md:justify-self-start">
                     <a href="https://github.com/jusoftdev/searchify/issues/new"><p className="link">Report inappropriate teleported Website </p></a>
-                    <p>How Search Works</p>
-                    <p>Discord</p>
                 </div>
                 <div className="flex justify-center space-x-8 md:ml-auto">
                     <p>Settings</p>
