@@ -143,7 +143,6 @@ See the [open issues](https://github.com/jusoftdev/searchify/issues) for a list 
 <!-- todo -->
 ## Todo (Sorted by importantness)
 
-* Teleport Me Button
 * Functionality
 * Image Search
 * Video Search
