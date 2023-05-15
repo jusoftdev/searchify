@@ -83,7 +83,8 @@ To get a local copy up and running follow these simple steps.
 This is an example of how to list things you need to use the software and how to install them.
 * [npm](https://npmjs.com)
 * [NodeJS](https://nodejs.org)  
-* yarn
+* [yarn](https://yarnpkg.com/)
+
   ```sh
   npm install --global yarn
   ```
