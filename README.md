@@ -187,7 +187,6 @@ Project Link: [https://github.com/jusoftdev/searchify](https://github.com/jusoft
 ## Contributors
 
 * [juhom205](https://github.com/juhom205)
-
-
+* [vKxni](https://github.com/vKxni)
 
 
