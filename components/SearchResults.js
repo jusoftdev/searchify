@@ -9,14 +9,14 @@ function SearchResults({ results }) {
         </p>
 
         {results.items?.map((result) =>(
-            <div key={result.link} className="max-w-xl mb-8 dark:text-gray-400">
-                <div className="group">
-                    <a href={result.link} className="text-sml">{result.formattedUrl}</a>
-                    <a href={result.link}>
-                        <h2 className="truncate text-xl text-blue-800 font-medium group-hover:underline dark:text-gray-200">{result.title}</h2>
-                    </a>
-                </div>
-                <p class="line-clamp-4">{result.snippet}</p>
+            <div key={result.link} className="mb-8 dark:text-gray-400">
+              <div className="group">
+                <a href={result.link} className="text-sml">{result.formattedUrl}</a>
+                <a href={result.link}>
+                  <h2 className="truncate text-xl text-blue-800 font-medium group-hover:underline dark:text-gray-200">{result.title}</h2>
+                </a>
+              </div>
+              <p className="line-clamp-4">{result.snippet}</p>
             </div>
         ))}
         <PaginationButtons />
